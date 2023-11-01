@@ -195,8 +195,8 @@ nav {
 }
 
 /* main section end  */
-
-
+ 
+/* media query section start  */
 @media (max-width: 900px) {
     .menu-icon{
         display: none;
@@ -225,6 +225,28 @@ nav {
         width: 90px;
     }
 }
+/* media query section end  */
+
+/* play video page start  */
+.play-container{
+    padding-left: 2%;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.play-video{
+    flex-basis: 69%;
+}
+.right-sidebar{
+    flex-basis: 30%;
+}
+.play-video video{
+    width: 100%;
+}
+
+/* play video page end */
 
 
 
