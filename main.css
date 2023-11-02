@@ -375,6 +375,36 @@ nav {
     border-radius: 50%;
     margin-right: 15px;
 }
+.old-comment h3 {
+   font-size: 14px;
+   margin-bottom: 2px;
+}
+.old-comment h3 span{
+    font-size: 12px;
+    color: #5a5a5a;
+    font-weight: 500;
+    margin-left: 8px;
+}
+
+.old-comment .comment-action{
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+    font-size: 14px;
+}
+.old-comment .comment-action img{
+    border-radius: 0;
+    width: 20px;
+    margin-right: 5px;
+}
+.old-comment .comment-action span{
+    margin-right: 20px;
+    color: #5a5a5a;
+}
+.old-comment .comment-action a {
+    color: #0000ff;
+}
+
 /* play video page end */
 
 
