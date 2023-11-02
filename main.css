@@ -329,6 +329,22 @@ nav {
     border-radius: 4px;
     cursor: pointer;
 }
+
+.vid-descripton{
+    padding-left: 55px;
+    margin: 15px 0;
+}
+
+.vid-descripton p{
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #5a5a5a;
+}
+.vid-descripton h4{
+    font-size: 14px;
+    color: #5a5a5a;
+    margin-top: 15px;
+}
 /* play video page end */
 
 
