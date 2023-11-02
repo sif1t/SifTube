@@ -345,6 +345,20 @@ nav {
     color: #5a5a5a;
     margin-top: 15px;
 }
+
+.add-comment{
+    display: flex;
+    align-items: center;
+    margin: 30px 0;
+}
+.add-comment img {
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.add-comment input{
+    
+}
 /* play video page end */
 
 
